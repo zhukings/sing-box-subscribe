@@ -137,7 +137,6 @@
       "tag": "🤖 ChatGPT",
       "type": "selector",
       "outbounds": [
-        "🚀 节点选择",
         "{all}" 
       ]
     },
@@ -145,7 +144,6 @@
       "tag":"🔍 谷歌服务",
       "type":"selector",
       "outbounds":[
-        "🚀 节点选择",
         "{all}" 
       ]
     },
@@ -153,7 +151,6 @@
       "tag":"✈️ Telegram",
       "type":"selector",
       "outbounds":[
-        "🚀 节点选择",
         "{all}" 
       ]
     },
@@ -161,7 +158,6 @@
       "tag":"📺 YouTube",
       "type":"selector",
       "outbounds":[
-        "🚀 节点选择",
         "{all}" 
       ]
     },
@@ -169,7 +165,6 @@
       "tag":"👤 社交网络",
       "type":"selector",
       "outbounds":[
-        "🚀 节点选择",
         "{all}" 
       ]
     },
@@ -177,7 +172,6 @@
       "tag":"🎸 TikTok",
       "type":"selector",
       "outbounds":[
-        "🚀 节点选择",
         "{all}" 
       ]
     },
@@ -209,7 +203,6 @@
       "tag":"🎻 Spotify",
       "type":"selector",
       "outbounds":[
-        "🚀 节点选择",
         "{all}" 
       ]
     },
@@ -217,7 +210,6 @@
       "tag":"🍿 Streaming",
       "type":"selector",
       "outbounds":[
-        "🚀 节点选择",
         "{all}" 
       ]
     },
